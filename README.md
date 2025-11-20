@@ -106,7 +106,7 @@ Open your browser and navigate to `http://localhost:3000`
 ## 📁 Project Structure
 
 ```
-CHat/
+MindSpace_Osci/
 ├── backend/
 │   ├── main.py              # FastAPI application
 │   ├── requirements.txt     # Python dependencies
