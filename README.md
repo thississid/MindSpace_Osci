@@ -1,4 +1,4 @@
-# Sid's Intelligence 🤖
+# Osci's Intelligence 🤖
 
 A modern, ChatGPT-inspired local AI chat application powered by Ollama, featuring a clean interface with retro terminal aesthetics.
 
