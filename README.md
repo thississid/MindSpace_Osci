@@ -62,7 +62,7 @@ ollama pull llama3
 
 ```bash
 git clone https://github.com/thississid/MindSpace_Osci
-cd CHat
+cd MindSpace_Osci
 ```
 
 ### 4. Setup Backend
