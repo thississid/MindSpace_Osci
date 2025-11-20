@@ -61,7 +61,7 @@ ollama pull llama3
 ### 3. Clone the Repository
 
 ```bash
-git clone <your-repo-url>
+git clone https://github.com/thississid/MindSpace_Osci
 cd CHat
 ```
 
